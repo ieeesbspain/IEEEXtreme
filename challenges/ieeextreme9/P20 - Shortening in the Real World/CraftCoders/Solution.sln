@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution", "Solution\Solution.csproj", "{A931B586-40D5-4709-9CA3-D3C2931FB1C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution.Tests", "Solution.Tests\Solution.Tests.csproj", "{56A4ADC1-FAA5-4154-8108-88BF367F8F64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A4ADC1-FAA5-4154-8108-88BF367F8F64}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{56A4ADC1-FAA5-4154-8108-88BF367F8F64}.Debug|x86.Build.0 = Debug|Any CPU
+		{56A4ADC1-FAA5-4154-8108-88BF367F8F64}.Release|x86.ActiveCfg = Release|Any CPU
+		{56A4ADC1-FAA5-4154-8108-88BF367F8F64}.Release|x86.Build.0 = Release|Any CPU
+		{A931B586-40D5-4709-9CA3-D3C2931FB1C4}.Debug|x86.ActiveCfg = Debug|x86
+		{A931B586-40D5-4709-9CA3-D3C2931FB1C4}.Debug|x86.Build.0 = Debug|x86
+		{A931B586-40D5-4709-9CA3-D3C2931FB1C4}.Release|x86.ActiveCfg = Release|x86
+		{A931B586-40D5-4709-9CA3-D3C2931FB1C4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

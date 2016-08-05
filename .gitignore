@@ -1,0 +1,12 @@
+# Generic extensions
+*.exe
+*.dll
+
+# Python
+__pycache__/
+
+# CSharp
+packages/
+obj/
+bin/
+*.userprefs
