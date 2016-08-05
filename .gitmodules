@@ -1,0 +1,3 @@
+[submodule "setup/timelapse/v4l2loopback"]
+	path = setup/timelapse/v4l2loopback
+	url = https://github.com/umlaeute/v4l2loopback
