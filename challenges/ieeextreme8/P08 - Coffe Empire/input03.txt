@@ -1,0 +1,16 @@
+1 1
+H
+Monday
+6
+Tuesday
+7
+Wednesday
+7
+Thursday
+5
+Friday
+3
+Saturday
+1
+Sunday
+7

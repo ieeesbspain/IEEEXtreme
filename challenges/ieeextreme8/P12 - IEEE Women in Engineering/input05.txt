@@ -1,0 +1,3001 @@
+3000 500
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48
+Vengeful Spirit,Agility,43:59
+Kunkka,Strength,78:13
+Naga Siren,Agility,65:60
+Earthshaker,Strength,93:13
+Undying,Strength,8:40
+Ursa,Agility,71:58
+Lifestealer,Strength,70:76
+Nyx Assassin,Agility,96:38
+Leshrac,Intelligence,14:27
+Keeper of the Light,Intelligence,71:0
+Beastmaster,Strength,81:22
+Venomancer,Agility,21:73
+Legion Commander,Strength,39:75
+Witch Doctor,Intelligence,51:5
+Omniknight,Strength,76:8
+Outworld Devourer,Intelligence,48:31
+Lone Druid,Strength,84:61
+Centaur Warrunner,Strength,23:88
+Sand King,Strength,14:33
+Shadow Shaman,Intelligence,42:56
+Treant Protector,Strength,8:3
+Pugna,Intelligence,84:7
+Weaver,Agility,84:89
+Magnus,Strength,34:74
+Chen,Intelligence,49:45
+Batrider,Intelligence,49:87
+Windranger,Intelligence,50:94
+Silencer,Intelligence,89:22
+Skywrath Mage,Intelligence,78:36
+Puck,Intelligence,60:35
+Medusa,Agility,87:12
+Doom,Strength,98:90
+Dazzle,Intelligence,95:67
+Abaddon,Strength,36:65
+Phantom Assassin,Agility,44:45
+Dark Seer,Intelligence,42:41
+Luna,Agility,19:64
+Ogre Magi,Intelligence,82:88
+Crystal Maiden,Intelligence,85:33
+Mirana,Agility,62:55
+Zeus,Intelligence,89:91
+Morphling,Agility,63:7
+Meepo,Agility,26:89
+Lion,Intelligence,41:92
+Dragon Knight,Strength,42:23
+Brewmaster,Strength,64:61
+Lich,Intelligence,12:73
+Skeleton King,Strength,86:44
+Tidehunter,Strength,53:44
+Lycan,Strength,40:73
+Sniper,Agility,1:88
+Clinkz,Agility,83:81
+Lina,Agility,65:36
+Sven,Strength,76:12
+Tiny,Strength,44:29
+Disruptor,Intelligence,62:18
+Faceless Void,Agility,63:25
+Bloodseeker,Agility,57:43
+Bounty Hunter,Agility,26:38
+Shadow Demon,Intelligence,41:63
+Broodmother,Agility,54:5
+Spirit Breaker,Strength,48:38
+Slark,Agility,66:29
+Elder Titan,Strength,5:40
+Timbersaw,Strength,55:31
+Bane,Intelligence,42:24
+Viper,Agility,53:70
+Drow Ranger,Agility,27:95
+Troll Warlord,Agility,31:66
+Bristleback,Strength,73:74
+Razor,Agility,65:38
+Axe,Strength,0:3
+Necrophos,Intelligence,34:75
+Rubick,Intelligence,75:41
+Storm Spirit,Intelligence,4:7
+Enchantress,Intelligence,54:23
+Nature's Prophet,Intelligence,85:15
+Jakiro,Intelligence,2:54
+Ancient Apparition,Intelligence,91:45
+Tinker,Intelligence,59:37
+Templar Assassin,Agility,68:24
+Alchemist,Strength,90:21
+Io,Strength,66:42
+Queen of Pain,Agility,78:2
+Slardar,Strength,60:92
+Juggernaut,Agility,3:8
+Enigma,Intelligence,36:24
+Anti Mage,Agility,17:38
+Death Prophet,Agility,82:52
+Tusk,Strength,16:31
+Warlock,Intelligence,42:73
+Visage,Intelligence,70:31
+Phantom Lancer,Agility,32:49
+Spectre,Agility,80:85
+Gyrocopter,Agility,97:82
+Invoker,Intelligence,69:39
+Night Stalker,Strength,0:70
+Clockwerk,Strength,40:33
+Riki,Agility,38:14
+Huskar,Strength,92:74
+Chaos Knight,Strength,38:91
+Pudge,Strength,89:52
+Shadow Fiend,Agility,4:48

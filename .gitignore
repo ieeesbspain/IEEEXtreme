@@ -10,3 +10,7 @@ packages/
 obj/
 bin/
 *.userprefs
+
+# Java
+nbproject/private/
+build/

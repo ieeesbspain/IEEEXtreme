@@ -1,0 +1,41 @@
+40 1
+Gyrocopter,Agility,91:19
+Sven,Strength,75:46
+Sniper,Agility,88:12
+Naga Siren,Agility,80:2
+Io,Strength,6:37
+Lich,Intelligence,48:75
+Legion Commander,Strength,3:42
+Shadow Demon,Intelligence,53:61
+Leshrac,Intelligence,23:37
+Spirit Breaker,Strength,16:37
+Batrider,Intelligence,54:54
+Faceless Void,Agility,78:73
+Axe,Strength,7:44
+Troll Warlord,Agility,94:35
+Treant Protector,Strength,97:0
+Skywrath Mage,Intelligence,88:34
+Enigma,Intelligence,34:86
+Warlock,Intelligence,14:2
+Tidehunter,Strength,83:92
+Bristleback,Strength,73:62
+Lina,Agility,53:35
+Jakiro,Intelligence,45:71
+Phantom Assassin,Agility,52:5
+Juggernaut,Agility,19:73
+Ogre Magi,Intelligence,61:63
+Clinkz,Agility,74:90
+Windranger,Intelligence,84:4
+Drow Ranger,Agility,88:99
+Centaur Warrunner,Strength,36:86
+Invoker,Intelligence,73:98
+Lycan,Strength,5:6
+Viper,Agility,74:81
+Visage,Intelligence,10:1
+Silencer,Intelligence,79:70
+Anti Mage,Agility,96:29
+Bloodseeker,Agility,29:82
+Brewmaster,Strength,96:13
+Vengeful Spirit,Agility,25:90
+Omniknight,Strength,67:9
+Phantom Lancer,Agility,94:73

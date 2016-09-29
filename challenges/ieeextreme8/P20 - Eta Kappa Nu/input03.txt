@@ -1,0 +1,121 @@
+10 10 100
+port_0
+port_1
+port_2
+port_3
+port_4
+port_5
+port_6
+port_7
+port_8
+port_9
+port_3 52953 1232 port_5 1442785 1006
+port_3 1424677 1372 port_2 1680059 1083
+port_3 969013 945 port_5 1716728 1113
+port_2 661098 675 port_1 1534279 1326
+port_4 2700 659 port_1 1512469 1183
+port_1 120068 159 port_7 925722 1390
+port_1 84689 745 port_9 707795 608
+port_4 445474 815 port_9 1177104 264
+port_3 248624 389 port_7 383910 148
+port_0 1557499 511 port_2 1781383 1260
+port_4 74690 1388 port_9
+port_3 892965 565 port_0
+port_8 817973 601 port_2
+port_1 253401 34 port_5
+port_9 1873335 726 port_5
+port_5 1530972 442 port_2
+port_3 660483 1150 port_7
+port_6 1242640 32 port_3
+port_2 632115 1164 port_4
+port_7 1502987 1433 port_8
+port_0 121992 1253 port_8
+port_9 1675656 915 port_5
+port_0 126020 131 port_3
+port_9 827841 679 port_6
+port_9 1477447 635 port_1
+port_2 479680 553 port_6
+port_6 1217002 357 port_4
+port_5 390457 490 port_7
+port_3 1064638 1255 port_5
+port_1 1664896 768 port_0
+port_8 1730349 718 port_9
+port_9 587755 104 port_3
+port_5 813966 241 port_0
+port_9 432431 739 port_1
+port_5 1933422 231 port_8
+port_8 1255958 168 port_0
+port_7 766023 344 port_1
+port_5 1978104 292 port_1
+port_8 542980 933 port_9
+port_8 695269 522 port_5
+port_6 7370 909 port_1
+port_4 1955697 284 port_0
+port_5 1198798 490 port_1
+port_8 1349769 687 port_5
+port_6 1254275 406 port_0
+port_6 1617350 312 port_5
+port_6 911804 1057 port_4
+port_3 451397 744 port_8
+port_4 1373815 256 port_9
+port_1 278150 1040 port_7
+port_0 659725 1147 port_1
+port_6 1749987 308 port_0
+port_7 269738 248 port_5
+port_8 298305 328 port_4
+port_1 970310 1108 port_9
+port_8 1083162 16 port_6
+port_7 616434 799 port_8
+port_9 756282 721 port_7
+port_5 773232 207 port_4
+port_3 377842 1141 port_7
+port_7 1926056 574 port_2
+port_1 707718 857 port_7
+port_7 1874381 809 port_4
+port_7 1231454 1180 port_2
+port_2 1707670 683 port_6
+port_1 437256 812 port_5
+port_3 1991111 1070 port_1
+port_5 377445 448 port_8
+port_5 1453931 1264 port_0
+port_5 437269 1140 port_6
+port_0 1990243 305 port_8
+port_7 148792 82 port_2
+port_2 1071773 940 port_0
+port_5 116112 309 port_7
+port_5 710029 1060 port_2
+port_4 1328156 782 port_2
+port_8 98320 889 port_0
+port_8 540996 193 port_0
+port_8 1109602 132 port_2
+port_8 279019 716 port_5
+port_1 1861797 508 port_2
+port_2 861039 643 port_8
+port_1 249463 604 port_2
+port_8 251558 665 port_4
+port_4 1148908 344 port_8
+port_9 730377 982 port_6
+port_1 1566114 1157 port_6
+port_0 664844 710 port_6
+port_1 1338348 627 port_0
+port_8 357916 1030 port_4
+port_8 1622977 83 port_0
+port_6 1193334 1125 port_1
+port_5 797336 830 port_9
+port_3 661461 866 port_9
+port_3 553024 922 port_8
+port_5 627128 261 port_4
+port_4 806954 330 port_1
+port_9 25826 47 port_6
+port_4 771800 132 port_2
+port_3 589451 177 port_4
+port_4 1999976 86 port_6
+port_4 86394 1047 port_3
+port_6 1749122 1366 port_5
+port_5 358472 356 port_9
+port_1 1287464 22 port_6
+port_9 371612 380 port_5
+port_5 92791 1340 port_1
+port_9 673049 1426 port_3
+port_9 243063 14 port_4
+port_0 1098267 0 port_3

@@ -1,0 +1,16 @@
+15 3
+Lina,Agility,91:29
+Necrophos,Intelligence,93:36
+Lycan,Strength,95:54
+Skeleton King,Strength,20:33
+Chaos Knight,Strength,67:75
+Leshrac,Intelligence,16:63
+Magnus,Strength,31:19
+Anti Mage,Agility,55:99
+Rubick,Intelligence,13:33
+Clinkz,Agility,9:95
+Drow Ranger,Agility,12:12
+Bane,Intelligence,89:16
+Spirit Breaker,Strength,63:20
+Templar Assassin,Agility,74:57
+Spectre,Agility,72:49

@@ -1,0 +1,13 @@
+5 4 3
+Earth
+Romulus
+Vulcan
+Kronos
+Ceti_Alpha_V
+Earth 1 720 Vulcan 49 120
+Vulcan 49 179 Romulus 824 0
+Romulus 825 720 Earth 1654 0
+Earth 700 600 Vulcan 749 1420
+Earth 0 680 Romulus
+Earth 830 800 Vulcan
+Kronos 800 800 Ceti_Alpha_V

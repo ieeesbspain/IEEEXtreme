@@ -1,0 +1,13 @@
+3 5 4
+Earth
+Romulus
+Vulcan
+Earth 1 720 Romulus 49 120
+Earth 200 1080 Vulcan 786 0
+Earth 200 1000 Romulus 1544 1439
+Romulus 50 720 Earth 149 240
+Vulcan 786 60 Romulus 1543 1100
+Earth 0 680 Romulus
+Earth 2 800 Romulus
+Vulcan 800 800 Romulus
+Romulus 2 900 Vulcan

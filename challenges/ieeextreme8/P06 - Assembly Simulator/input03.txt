@@ -1,0 +1,9 @@
+FF
+MOVE  #FE,FF
+MOVE  #01,00
+repeat MOVE  00,(FF)
+ADD   #01,00
+SUB   #01,FF
+COMP  #01,FF
+BNE   repeat
+PRINT 02,FE

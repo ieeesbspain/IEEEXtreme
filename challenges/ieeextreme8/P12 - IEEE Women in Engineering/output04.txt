@@ -1,0 +1,69 @@
+Enigma
+Undying
+Death Prophet
+Mirana
+Alchemist
+Brewmaster
+Skywrath Mage
+Jakiro
+Tidehunter
+Sand King
+Gyrocopter
+Queen of Pain
+Puck
+Keeper of the Light
+Io
+Pugna
+Slark
+Shadow Shaman
+Warlock
+Dragon Knight
+Naga Siren
+Lina
+Lycan
+Drow Ranger
+Tiny
+Centaur Warrunner
+Timbersaw
+Juggernaut
+Ancient Apparition
+Crystal Maiden
+Legion Commander
+Pudge
+Tinker
+Bane
+Skeleton King
+Clinkz
+Omniknight
+Invoker
+Ursa
+Lich
+Lone Druid
+Morphling
+Chen
+Necrophos
+Doom
+Templar Assassin
+Dark Seer
+Tusk
+Earthshaker
+Night Stalker
+Phantom Lancer
+Axe
+Batrider
+Witch Doctor
+Weaver
+Treant Protector
+Razor
+Sven
+Rubick
+Kunkka
+Leshrac
+Disruptor
+Venomancer
+Elder Titan
+
+This set of heroes:
+Contains 34.38 percentage of Intelligence
+Contains 39.06 percentage of Strength
+Contains 26.56 percentage of Agility

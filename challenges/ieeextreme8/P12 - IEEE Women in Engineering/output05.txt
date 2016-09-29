@@ -1,0 +1,505 @@
+Keeper of the Light
+Queen of Pain
+Keeper of the Light
+Queen of Pain
+Keeper of the Light
+Broodmother
+Queen of Pain
+Pugna
+Witch Doctor
+Morphling
+Omniknight
+Broodmother
+Keeper of the Light
+Queen of Pain
+Pugna
+Witch Doctor
+Morphling
+Medusa
+Sven
+Omniknight
+Nature's Prophet
+Earthshaker
+Broodmother
+Pugna
+Keeper of the Light
+Queen of Pain
+Kunkka
+Witch Doctor
+Morphling
+Medusa
+Sven
+Nature's Prophet
+Omniknight
+Earthshaker
+Alchemist
+Broodmother
+Pugna
+Queen of Pain
+Keeper of the Light
+Kunkka
+Medusa
+Witch Doctor
+Morphling
+Sven
+Nature's Prophet
+Earthshaker
+Omniknight
+Silencer
+Alchemist
+Broodmother
+Pugna
+Queen of Pain
+Kunkka
+Keeper of the Light
+Medusa
+Morphling
+Witch Doctor
+Disruptor
+Sven
+Beastmaster
+Nature's Prophet
+Silencer
+Earthshaker
+Omniknight
+Alchemist
+Broodmother
+Pugna
+Kunkka
+Disruptor
+Queen of Pain
+Medusa
+Beastmaster
+Riki
+Keeper of the Light
+Sven
+Morphling
+Witch Doctor
+Nature's Prophet
+Silencer
+Templar Assassin
+Earthshaker
+Alchemist
+Omniknight
+Broodmother
+Pugna
+Disruptor
+Kunkka
+Crystal Maiden
+Riki
+Beastmaster
+Treant Protector
+Medusa
+Templar Assassin
+Faceless Void
+Sven
+Silencer
+Queen of Pain
+Nature's Prophet
+Morphling
+Witch Doctor
+Keeper of the Light
+Enchantress
+Alchemist
+Earthshaker
+Omniknight
+Nyx Assassin
+Visage
+Slark
+Crystal Maiden
+Riki
+Disruptor
+Broodmother
+Beastmaster
+Treant Protector
+Kunkka
+Faceless Void
+Templar Assassin
+Pugna
+Silencer
+Medusa
+Enchantress
+Sven
+Nature's Prophet
+Morphling
+Alchemist
+Witch Doctor
+Queen of Pain
+Visage
+Skywrath Mage
+Nyx Assassin
+Earthshaker
+Keeper of the Light
+Omniknight
+Slark
+Crystal Maiden
+Ancient Apparition
+Riki
+Disruptor
+Treant Protector
+Faceless Void
+Templar Assassin
+Beastmaster
+Skeleton King
+Broodmother
+Kunkka
+Enchantress
+Silencer
+Pugna
+Visage
+Medusa
+Skywrath Mage
+Sven
+Nyx Assassin
+Nature's Prophet
+Alchemist
+Morphling
+Rubick
+Slark
+Witch Doctor
+Earthshaker
+Ancient Apparition
+Queen of Pain
+Crystal Maiden
+Pudge
+Lina
+Riki
+Invoker
+Dragon Knight
+Omniknight
+Treant Protector
+Faceless Void
+Disruptor
+Keeper of the Light
+Skeleton King
+Templar Assassin
+Razor
+Bane
+Beastmaster
+Timbersaw
+Enchantress
+Kunkka
+Skywrath Mage
+Visage
+Broodmother
+Silencer
+Puck
+Nyx Assassin
+Rubick
+Pugna
+Medusa
+Sven
+Slark
+Alchemist
+Ancient Apparition
+Nature's Prophet
+Pudge
+Lina
+Death Prophet
+Invoker
+Io
+Crystal Maiden
+Dragon Knight
+Tinker
+Riki
+Morphling
+Skeleton King
+Earthshaker
+Witch Doctor
+Razor
+Faceless Void
+Treant Protector
+Bane
+Timbersaw
+Templar Assassin
+Disruptor
+Enchantress
+Queen of Pain
+Enigma
+Omniknight
+Beastmaster
+Skywrath Mage
+Puck
+Visage
+Keeper of the Light
+Tiny
+Nyx Assassin
+Rubick
+Kunkka
+Silencer
+Ancient Apparition
+Pudge
+Death Prophet
+Slark
+Lina
+Invoker
+Io
+Broodmother
+Tinker
+Dragon Knight
+Outworld Devourer
+Alchemist
+Crystal Maiden
+Medusa
+Sven
+Razor
+Nature's Prophet
+Skeleton King
+Pugna
+Bane
+Timbersaw
+Riki
+Faceless Void
+Treant Protector
+Enigma
+Templar Assassin
+Enchantress
+Disruptor
+Morphling
+Earthshaker
+Puck
+Witch Doctor
+Skywrath Mage
+Tiny
+Visage
+Beastmaster
+Rubick
+Dazzle
+Nyx Assassin
+Death Prophet
+Pudge
+Omniknight
+Queen of Pain
+Ancient Apparition
+Io
+Invoker
+Tinker
+Lina
+Slark
+Outworld Devourer
+Dragon Knight
+Bloodseeker
+Silencer
+Kunkka
+Razor
+Bane
+Skeleton King
+Timbersaw
+Keeper of the Light
+Crystal Maiden
+Enigma
+Alchemist
+Lone Druid
+Broodmother
+Riki
+Faceless Void
+Treant Protector
+Nature's Prophet
+Sven
+Medusa
+Puck
+Enchantress
+Huskar
+Templar Assassin
+Tiny
+Pugna
+Dazzle
+Skywrath Mage
+Disruptor
+Rubick
+Visage
+Death Prophet
+Pudge
+Io
+Earthshaker
+Tinker
+Spirit Breaker
+Invoker
+Bloodseeker
+Beastmaster
+Morphling
+Lina
+Ancient Apparition
+Outworld Devourer
+Nyx Assassin
+Dragon Knight
+Witch Doctor
+Clockwerk
+Slark
+Gyrocopter
+Razor
+Bane
+Timbersaw
+Enigma
+Skeleton King
+Lone Druid
+Omniknight
+Silencer
+Ursa
+Crystal Maiden
+Queen of Pain
+Huskar
+Tidehunter
+Kunkka
+Tiny
+Riki
+Faceless Void
+Puck
+Treant Protector
+Dazzle
+Alchemist
+Enchantress
+Templar Assassin
+Rubick
+Spirit Breaker
+Death Prophet
+Skywrath Mage
+Keeper of the Light
+Broodmother
+Bloodseeker
+Io
+Visage
+Pudge
+Nature's Prophet
+Tinker
+Sven
+Outworld Devourer
+Clockwerk
+Medusa
+Invoker
+Gyrocopter
+Disruptor
+Lina
+Ancient Apparition
+Dragon Knight
+Nyx Assassin
+Pugna
+Razor
+Beastmaster
+Slark
+Lone Druid
+Enigma
+Bane
+Timbersaw
+Ursa
+Earthshaker
+Skeleton King
+Tidehunter
+Huskar
+Morphling
+Mirana
+Witch Doctor
+Tiny
+Doom
+Crystal Maiden
+Dazzle
+Puck
+Chen
+Silencer
+Spirit Breaker
+Faceless Void
+Riki
+Omniknight
+Bloodseeker
+Naga Siren
+Treant Protector
+Death Prophet
+Clockwerk
+Rubick
+Gyrocopter
+Enchantress
+Io
+Tinker
+Kunkka
+Brewmaster
+Outworld Devourer
+Pudge
+Skywrath Mage
+Templar Assassin
+Invoker
+Alchemist
+Visage
+Queen of Pain
+Lina
+Ancient Apparition
+Dragon Knight
+Lone Druid
+Ursa
+Enigma
+Disruptor
+Razor
+Tidehunter
+Huskar
+Nyx Assassin
+Bane
+Nature's Prophet
+Timbersaw
+Sven
+Clinkz
+Slark
+Mirana
+Broodmother
+Medusa
+Doom
+Skeleton King
+Dark Seer
+Chen
+Keeper of the Light
+Beastmaster
+Tiny
+Dazzle
+Spirit Breaker
+Puck
+Naga Siren
+Bristleback
+Pugna
+Clockwerk
+Bloodseeker
+Gyrocopter
+Earthshaker
+Brewmaster
+Crystal Maiden
+Death Prophet
+Io
+Morphling
+Rubick
+Zeus
+Faceless Void
+Tinker
+Outworld Devourer
+Phantom Assassin
+Spectre
+Riki
+Pudge
+Silencer
+Treant Protector
+Enchantress
+Invoker
+Witch Doctor
+Skywrath Mage
+Ursa
+Lina
+Lone Druid
+Tidehunter
+Clinkz
+Visage
+Templar Assassin
+Huskar
+Dragon Knight
+Ancient Apparition
+Mirana
+Enigma
+Doom
+Omniknight
+Razor
+Dark Seer
+Kunkka
+Bane
+Chen
+Alchemist
+Timbersaw
+
+This set of heroes:
+Contains 37.80 percentage of Intelligence
+Contains 32.00 percentage of Strength
+Contains 30.20 percentage of Agility

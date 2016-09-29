@@ -1,0 +1,211 @@
+100 10 100
+port_0
+port_1
+port_2
+port_3
+port_4
+port_5
+port_6
+port_7
+port_8
+port_9
+port_10
+port_11
+port_12
+port_13
+port_14
+port_15
+port_16
+port_17
+port_18
+port_19
+port_20
+port_21
+port_22
+port_23
+port_24
+port_25
+port_26
+port_27
+port_28
+port_29
+port_30
+port_31
+port_32
+port_33
+port_34
+port_35
+port_36
+port_37
+port_38
+port_39
+port_40
+port_41
+port_42
+port_43
+port_44
+port_45
+port_46
+port_47
+port_48
+port_49
+port_50
+port_51
+port_52
+port_53
+port_54
+port_55
+port_56
+port_57
+port_58
+port_59
+port_60
+port_61
+port_62
+port_63
+port_64
+port_65
+port_66
+port_67
+port_68
+port_69
+port_70
+port_71
+port_72
+port_73
+port_74
+port_75
+port_76
+port_77
+port_78
+port_79
+port_80
+port_81
+port_82
+port_83
+port_84
+port_85
+port_86
+port_87
+port_88
+port_89
+port_90
+port_91
+port_92
+port_93
+port_94
+port_95
+port_96
+port_97
+port_98
+port_99
+port_61 1314382 405 port_14 1569820 1289
+port_84 678193 1228 port_20 1772263 956
+port_70 730410 691 port_75 1652321 22
+port_9 275194 873 port_30 1641946 738
+port_61 328215 421 port_20 1360193 513
+port_61 559785 443 port_60 825412 318
+port_7 551397 243 port_91 1038442 1406
+port_5 126741 923 port_68 1207190 381
+port_67 1285856 1241 port_14 1560409 685
+port_98 36193 112 port_52 1755876 469
+port_94 1766353 1197 port_59
+port_56 938137 994 port_41
+port_4 454866 518 port_43
+port_42 302940 416 port_92
+port_3 1944461 708 port_82
+port_63 161309 230 port_17
+port_97 1714634 905 port_44
+port_74 573048 1422 port_6
+port_79 440280 1022 port_57
+port_62 696163 144 port_37
+port_16 279228 867 port_38
+port_3 1483737 844 port_93
+port_35 1534099 644 port_5
+port_87 466959 631 port_51
+port_22 1144279 42 port_0
+port_92 10434 1147 port_81
+port_63 463270 1024 port_78
+port_70 52493 208 port_96
+port_29 1740179 1395 port_74
+port_51 390948 1248 port_75
+port_33 155662 351 port_29
+port_76 343914 386 port_97
+port_91 1787006 1080 port_71
+port_52 590566 276 port_86
+port_17 331676 1088 port_51
+port_71 97774 801 port_37
+port_66 455775 530 port_46
+port_74 143795 1330 port_2
+port_2 306533 538 port_69
+port_67 250797 578 port_0
+port_75 1711409 1006 port_39
+port_17 1511701 573 port_77
+port_46 402197 1314 port_13
+port_58 788529 1028 port_33
+port_45 1287938 598 port_89
+port_12 824219 289 port_8
+port_87 680102 1053 port_43
+port_70 1296636 98 port_27
+port_37 1659809 200 port_98
+port_73 1427699 1189 port_59
+port_25 146391 541 port_91
+port_25 1622543 1083 port_76
+port_79 1317570 1245 port_44
+port_96 648720 441 port_7
+port_37 782253 1049 port_30
+port_31 1845926 488 port_12
+port_5 11871 79 port_3
+port_42 1626890 730 port_28
+port_95 166721 1113 port_29
+port_26 1106236 381 port_88
+port_36 969394 575 port_44
+port_58 716812 904 port_35
+port_64 793186 554 port_35
+port_68 501597 413 port_99
+port_69 965776 303 port_63
+port_22 1492299 1173 port_33
+port_95 1051491 313 port_26
+port_15 1527442 653 port_3
+port_85 1453650 560 port_9
+port_45 1117050 243 port_69
+port_39 683295 573 port_50
+port_7 1597642 7 port_16
+port_79 1302438 1086 port_69
+port_46 472801 185 port_44
+port_2 1981495 739 port_75
+port_6 544119 1284 port_19
+port_30 746125 181 port_90
+port_83 655023 588 port_79
+port_74 207612 352 port_81
+port_97 1279767 47 port_31
+port_35 249826 461 port_42
+port_86 1555554 542 port_14
+port_49 1535430 175 port_46
+port_86 1184936 1326 port_19
+port_11 1848721 619 port_18
+port_82 1300826 666 port_67
+port_3 1149332 54 port_24
+port_84 799806 466 port_42
+port_94 1254465 46 port_79
+port_82 69903 920 port_58
+port_33 78416 977 port_14
+port_53 564745 1004 port_18
+port_56 345429 825 port_90
+port_82 1887635 500 port_78
+port_35 1868694 473 port_8
+port_78 1602172 505 port_28
+port_62 890839 51 port_16
+port_16 1348206 1263 port_34
+port_86 1047630 1379 port_38
+port_11 91671 210 port_4
+port_95 123426 360 port_52
+port_19 1297435 421 port_54
+port_86 847264 1251 port_49
+port_30 758935 1003 port_68
+port_94 1564317 1182 port_87
+port_20 1211088 1225 port_76
+port_68 944926 216 port_13
+port_33 213662 1057 port_15
+port_41 1562927 1155 port_42
+port_63 1681478 695 port_84

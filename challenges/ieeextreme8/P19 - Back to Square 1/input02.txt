@@ -1,0 +1,31 @@
+50
+R 6 3 4 2 J 3 3 T T 6 4 A 8 3 8 5 2 9 K T 8 4 9 T Q T J K 2 Q R 8 9 7 6 6 6 Q R 8 4 J T 6 6 R T R A
+T T T 6 2 Q 8 6 3 8 J 8 9 J 9 6 J 3 T R K Q R 2 R J J 7 8 5 Q 4 8 8 6 R R Q 5 A 6 J J K R J Q 2 A 9
+50
+3 Q 8 A 4 R 4 9 9 9 J K K 8 9 R 4 6 9 7 6 4 Q Q 2 J T J 3 4 T 8 7 8 7 K K 6 8 2 8 6 9 Q 5 J K 3 3 7
+K 9 R 5 5 2 2 6 3 3 2 A K 3 T J R 2 R 4 2 7 R 6 4 5 4 2 6 J 4 T Q R 6 9 T 7 K 2 9 2 R 3 T A K R 4 T
+50
+9 5 7 9 5 3 R Q R A 5 7 K K 4 T Q 7 K J 6 3 2 K J R 9 R 2 2 5 R 4 2 7 4 4 K J T Q Q 8 R 8 Q 2 8 A Q
+K 8 9 J 4 6 6 5 3 5 3 6 7 5 2 J K A 8 4 7 4 T K 6 9 5 R 6 6 4 5 8 8 Q T 5 Q 4 R 7 9 8 3 7 R T R 4 8
+50
+J 8 Q 8 2 8 6 3 4 T 8 7 K R T 3 R 6 4 8 T 2 9 9 5 K T 2 9 4 8 3 9 3 2 R 6 8 T 3 T 9 R 7 T 5 T K A 2
+A 8 R 8 R J 4 Q 8 7 3 9 6 J 5 6 2 R 6 Q T Q Q 4 T 5 Q T 2 9 6 8 9 8 7 T 8 T J Q 6 4 5 5 4 8 5 K 2 K
+50
+Q 7 5 2 6 J 7 J 4 2 Q T T 9 R 5 7 T T A 5 K 7 K 8 5 R R Q 5 2 2 2 Q K R 7 6 3 3 2 Q A K T 5 7 8 A R
+2 8 J 7 J J Q K 2 T A 6 8 5 3 7 8 T Q 7 5 5 9 Q A 5 T 7 3 5 3 2 9 5 T 3 J 9 4 9 T 9 R J 3 7 4 9 T 2
+50
+6 A Q 5 5 7 Q 5 2 5 2 K 7 4 A 2 3 Q 5 3 9 A 9 J 4 8 J A T 8 J J 5 Q J 5 7 3 2 9 4 6 7 8 4 6 4 4 9 2
+8 7 5 J 4 T R K T 4 4 K J 5 3 5 J A T 9 3 4 K 9 Q 3 A 7 J T K A A 7 R 3 3 4 Q Q Q 9 6 2 3 2 2 A T J
+50
+A 5 5 4 A A Q 3 2 Q A J 6 6 R K T R 2 3 J 8 K 6 T 8 3 R 3 2 3 5 T 6 T 9 R 9 4 8 2 T 9 A 5 A 4 9 R 3
+R J K 6 2 5 4 6 5 9 2 K 5 2 5 Q J 6 8 6 3 9 2 8 2 2 T 2 7 A T R A T A Q K 3 Q J 3 2 R 8 J A 2 2 4 Q
+50
+3 9 A T Q 2 5 7 9 R 3 5 6 4 2 3 2 Q K 3 T Q 5 4 J T T K 5 R 4 9 A 4 T 3 5 J 6 A 5 9 2 8 8 Q 5 Q 6 J
+J 9 6 4 2 8 2 3 A 8 5 2 J J A K J K Q J 4 A 6 K 6 K 8 8 5 R 6 6 2 3 R 8 8 J T 7 8 8 R T 9 R J R A R
+50
+6 J 9 A R J R 2 3 Q A 7 4 3 R Q R 3 R 3 2 8 2 8 J 4 2 7 9 9 4 4 7 5 7 4 4 J 8 J T R T 2 A 2 Q 3 6 A
+7 Q 8 4 A T 4 9 K 7 7 5 2 8 T 8 Q Q 9 A 9 4 J 5 8 Q 7 K 2 4 7 8 A A T 9 A A 9 9 4 8 5 8 9 J 8 J R Q
+50
+4 6 J 8 7 3 6 5 8 3 J 4 3 Q J 6 3 5 Q 6 4 8 T 9 K 9 R 2 7 J T 8 3 8 5 6 K 2 T J 9 T 9 7 3 7 6 7 J K
+5 8 A 3 5 A 2 6 K T 4 4 Q K 9 A 2 Q 3 9 2 T T J A 8 J A 9 K 4 2 3 6 6 4 9 3 Q 8 Q 5 6 A 6 3 K T 8 6
+0

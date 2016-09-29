@@ -1,0 +1,6 @@
+Omniknight
+
+This set of heroes:
+Contains 0.00 percentage of Intelligence
+Contains 100.00 percentage of Strength
+Contains 0.00 percentage of Agility

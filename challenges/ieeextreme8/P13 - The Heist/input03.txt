@@ -1,0 +1,7 @@
+6 5392666
+Jewelry,511,263
+Money,942,681
+Ruby,563,253
+Gold,595,333
+Diamonds,861,993
+END

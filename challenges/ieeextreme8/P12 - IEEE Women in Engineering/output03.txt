@@ -1,0 +1,108 @@
+Luna
+Visage
+Meepo
+Lifestealer
+Undying
+Invoker
+Medusa
+Enigma
+Rubick
+Sven
+Shadow Fiend
+Puck
+Enchantress
+Axe
+Drow Ranger
+Bounty Hunter
+Shadow Demon
+Anti Mage
+Outworld Devourer
+Night Stalker
+Lich
+Pudge
+Clinkz
+Disruptor
+Templar Assassin
+Morphling
+Leshrac
+Centaur Warrunner
+Troll Warlord
+Omniknight
+Queen of Pain
+Windranger
+Clockwerk
+Lone Druid
+Bane
+Faceless Void
+Tiny
+Ogre Magi
+Io
+Brewmaster
+Spectre
+Skywrath Mage
+Nature's Prophet
+Chaos Knight
+Broodmother
+Elder Titan
+Dazzle
+Sniper
+Dark Seer
+Naga Siren
+Zeus
+Chen
+Ursa
+Slardar
+Skeleton King
+Viper
+Ancient Apparition
+Magnus
+Timbersaw
+Tinker
+Shadow Shaman
+Lion
+Jakiro
+Lycan
+Bloodseeker
+Treant Protector
+Gyrocopter
+Legion Commander
+Keeper of the Light
+Slark
+Lina
+Batrider
+Death Prophet
+Huskar
+Witch Doctor
+Pugna
+Earthshaker
+Silencer
+Dragon Knight
+Crystal Maiden
+Vengeful Spirit
+Nyx Assassin
+Venomancer
+Storm Spirit
+Alchemist
+Bristleback
+Doom
+Phantom Lancer
+Sand King
+Tusk
+Abaddon
+Mirana
+Razor
+Beastmaster
+Spirit Breaker
+Kunkka
+Phantom Assassin
+Necrophos
+Warlock
+Riki
+Tidehunter
+Juggernaut
+Weaver
+
+This set of heroes:
+Contains 33.01 percentage of Intelligence
+Contains 33.98 percentage of Strength
+Contains 33.01 percentage of Agility

@@ -1,0 +1,77 @@
+76 64
+Vengeful Spirit,Agility,84:47
+Clockwerk,Strength,68:8
+Ogre Magi,Intelligence,7:38
+Bristleback,Strength,68:97
+Shadow Demon,Intelligence,69:93
+Faceless Void,Agility,40:74
+Slardar,Strength,24:80
+Leshrac,Intelligence,47:22
+Magnus,Strength,8:61
+Treant Protector,Strength,90:36
+Beastmaster,Strength,4:6
+Venomancer,Agility,67:90
+Batrider,Intelligence,52:20
+Sven,Strength,92:97
+Razor,Agility,80:97
+Viper,Agility,7:66
+Tusk,Strength,42:25
+Rubick,Intelligence,52:86
+Night Stalker,Strength,85:80
+Earthshaker,Strength,81:75
+Necrophos,Intelligence,76:54
+Chen,Intelligence,63:43
+Lone Druid,Strength,70:45
+Bane,Intelligence,90:30
+Skeleton King,Strength,21:8
+Juggernaut,Agility,88:6
+Elder Titan,Strength,16:71
+Witch Doctor,Intelligence,2:5
+Dark Seer,Intelligence,55:83
+Ursa,Agility,93:85
+Omniknight,Strength,93:79
+Morphling,Agility,73:94
+Phantom Lancer,Agility,31:74
+Axe,Strength,26:65
+Clinkz,Agility,52:49
+Doom,Strength,26:55
+Drow Ranger,Agility,54:20
+Pudge,Strength,69:58
+Crystal Maiden,Intelligence,91:74
+Lycan,Strength,40:19
+Slark,Agility,90:27
+Lich,Intelligence,58:98
+Centaur Warrunner,Strength,84:58
+Brewmaster,Strength,33:0
+Tinker,Intelligence,28:35
+Templar Assassin,Agility,8:24
+Tiny,Strength,63:49
+Jakiro,Intelligence,87:10
+Zeus,Intelligence,7:66
+Pugna,Intelligence,58:32
+Io,Strength,97:48
+Keeper of the Light,Intelligence,95:49
+Mirana,Agility,89:10
+Timbersaw,Strength,37:43
+Ancient Apparition,Intelligence,49:66
+Dazzle,Intelligence,1:40
+Warlock,Intelligence,42:36
+Gyrocopter,Agility,74:47
+Disruptor,Intelligence,6:55
+Lina,Agility,48:57
+Dragon Knight,Strength,40:44
+Skywrath Mage,Intelligence,53:23
+Shadow Shaman,Intelligence,69:73
+Sand King,Strength,87:60
+Invoker,Intelligence,32:94
+Kunkka,Strength,3:25
+Death Prophet,Agility,65:14
+Naga Siren,Agility,70:97
+Weaver,Agility,12:96
+Tidehunter,Strength,67:47
+Queen of Pain,Agility,56:57
+Undying,Strength,81:24
+Puck,Intelligence,87:96
+Enigma,Intelligence,93:22
+Legion Commander,Strength,36:92
+Alchemist,Strength,95:65

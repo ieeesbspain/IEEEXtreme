@@ -1,0 +1,7 @@
+2
+MOVE  #FF,00
+repeat PRINT 00
+SUB   #01,00
+COMP  #F0,00
+BNE   repeat
+PRINT 00

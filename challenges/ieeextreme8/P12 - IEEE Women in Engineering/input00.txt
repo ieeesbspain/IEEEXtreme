@@ -1,0 +1,5 @@
+4 2
+Silencer,Intelligence,83:80
+Tiny,Strength,94:76
+Spectre,Agility,34:22
+Dazzle,Intelligence,60:89
