@@ -30,15 +30,15 @@ namespace Solution.Tests
     [TestFixture]
     public class Tests
     {
+        // By default they will be in the parent of the solution directory
+        const string RelativeTestDirectory = "../../../../";
         private string[,] publicCases;
 
         public Tests()
         {
-            // By default they will be in the solution directory
             TestFilesPath = Path.Combine(
                 Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location),
-                "../../../");
-
+                RelativeTestDirectory);
             FindTestFiles();
         }
 

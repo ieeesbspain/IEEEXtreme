@@ -29,11 +29,10 @@ namespace Solution
     {
         public static void Main()
         {
-            // Create the matrix from the input.
-            string[] dimensions = Console.ReadLine().Split(' ');
-            int rows = Convert.ToInt32(dimensions[0]);
-            int cols = Convert.ToInt32(dimensions[1]);
+            // Read dimensions - Not used.
+            Console.ReadLine().Split(' ');
 
+            // Create the list of layers.
             List<Layer> layers = new List<Layer>();
 
             // Get number of queries
@@ -49,7 +48,7 @@ namespace Solution
             switch (query.Operation) {
             case Operations.Add:
             case Operations.Remove:
-                IntersectLayer(layers, query.Layer);
+                layers.Add(query.Layer);
                 break;
 
             case Operations.Question:
@@ -58,30 +57,11 @@ namespace Solution
             }
         }
 
-        private static void IntersectLayer(List<Layer> layers, Layer newLayer)
-        {
-            Queue<Layer> layersToProcess = new Queue<Layer>();
-            layersToProcess.Enqueue(newLayer);
-
-            while (layersToProcess.Count > 0) {
-                Layer currentLayer = layersToProcess.Dequeue();
-                foreach (Layer l in layers) {
-                    var newLayers = IntersectLayer(layers, newLayer);
-                }
-            }
-        }
-
-        private static List<Layer> IntersectLayer(Layer layer1, Layer layer2)
-        {
-            return null;
-        }
-
-        private static void ShowLayer(List<Layer> layers, Layer newLayer)
+        private static void ShowLayer(List<Layer> layers, Layer queryLayer)
         {
             int count = 0;
-            foreach (Layer l in layers)
-                if (l.Intersect(newLayer))
-                    count += l.NumBlocks * l.Value;
+            foreach (Layer layer in layers)
+                count += layer.Value * layer.IntersectedArea(queryLayer);
 
             Console.WriteLine(count);
         }
@@ -127,57 +107,23 @@ namespace Solution
             private set;
         }
 
-        public int Width {
-            get {
-                return End.X - Start.X + 1;
-            }
-        }
-
-        public int Height {
-            get {
-                return End.Y - Start.Y + 1;
-            }
-        }
-
-        public int NumBlocks {
-            get {
-                return Width * Height;
-            }
-        }
-
-        public override bool Equals(object obj)
-        {
-            if (obj == null)
-                return false;
-            if (ReferenceEquals(this, obj))
-                return true;
-            if (obj.GetType() != typeof(Layer))
-                return false;
-            Layer other = (Layer)obj;
-            return Start == other.Start && End == other.End;
-        }
-
-        public static bool operator !=(Layer layer1, Layer layer2)
-        {
-            return !layer1.Equals(layer2);
-        }
-
-        public static bool operator ==(Layer layer1, Layer layer2)
-        {
-            return layer1.Equals(layer2);
-        }
-
-        public override int GetHashCode()
-        {
-            unchecked {
-                return (Start != null ? Start.GetHashCode() : 0) ^ (End != null ? End.GetHashCode() : 0);
-            }
-        }
-
         public bool Intersect(Layer rect)
         {
             return this.Left <= rect.Right && this.Right >= rect.Left &&
                 this.Top <= rect.Bottom && this.Bottom >= rect.Top;
+        }
+
+        public int IntersectedArea(Layer rect)
+        {
+            if (!Intersect(rect))
+                return 0;
+
+            int intersectedLeft   = Math.Max(this.Left, rect.Left);
+            int intersectedRight  = Math.Min(this.Right, rect.Right);
+            int intersectedTop    = Math.Max(this.Top, rect.Top);
+            int intersectedBottom = Math.Min(this.Bottom, rect.Bottom);
+            return (intersectedRight - intersectedLeft   + 1) *
+                (intersectedBottom - intersectedTop + 1);
         }
 
         public override string ToString()
@@ -251,7 +197,7 @@ namespace Solution
         }
     }
 
-    public enum Operations : int {
+    public enum Operations {
         Add = 1,
         Remove = -1,
         Question = 0
@@ -275,47 +221,9 @@ namespace Solution
             private set;
         }
 
-        public override bool Equals(object obj)
-        {
-            if (obj == null)
-                return false;
-            if (ReferenceEquals(this, obj))
-                return true;
-            if (obj.GetType() != typeof(Point))
-                return false;
-            Point other = (Point)obj;
-            return X == other.X && Y == other.Y;
-        }
-
-        public static bool operator !=(Point point1, Point point2)
-        {
-            return !point1.Equals(point2);
-        }
-
-        public static bool operator ==(Point point1, Point point2)
-        {
-            return point1.Equals(point2);
-        }
-
-        public override int GetHashCode()
-        {
-            unchecked {
-                return X.GetHashCode() ^ Y.GetHashCode();
-            }
-        }
-
         public override string ToString()
         {
             return string.Format("[Point: X={0}, Y={1}]", X, Y);
-        }
-    }
-
-    public static class IntExtensions
-    {
-        public static bool DiffPositive(this int f, int s, int max)
-        {
-            int diff = s - f;
-            return diff >= 0 && diff < max;
         }
     }
 }
