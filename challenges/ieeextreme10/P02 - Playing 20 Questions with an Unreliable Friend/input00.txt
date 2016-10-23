@@ -1,0 +1,21 @@
+3
+
+2 2
+color 1 b
+yes
+color 2 r
+no
+
+3 1
+count r 4 and count g 7
+yes
+color 1 b and color 2 r and color 3 b
+yes
+color 1 g or color 4 g
+yes
+
+2 0
+count r 1
+yes
+color 6 b or color 1 r
+yes

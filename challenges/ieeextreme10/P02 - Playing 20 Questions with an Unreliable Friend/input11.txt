@@ -1,0 +1,163 @@
+5
+
+16 5
+color 1 r
+yes
+color 2 r
+yes
+color 3 r
+no
+color 4 r
+yes
+color 5 r
+no
+color 6 r
+yes
+color 7 r
+no
+color 8 r
+yes
+color 9 r
+no
+color 10 r
+yes
+color 1 r and color 2 r and color 3 r and color 4 r
+yes
+color 1 r and color 3 r and color 5 r and color 7 r
+yes
+color 2 r and color 6 r and color 9 r and color 10 r
+yes
+color 3 r and color 7 r and color 10 r and color 2 r
+yes
+color 4 r and color 5 r and color 6 r and color 6 r
+yes
+color 6 r and color 7 r and color 10 r and color 8 r
+yes
+
+16 4
+color 1 r
+yes
+color 2 g
+yes
+color 3 b
+no
+color 4 g
+yes
+color 5 b
+no
+color 6 g
+yes
+color 7 b
+no
+color 8 r
+yes
+color 9 g
+no
+color 10 b
+yes
+color 1 r and color 2 r and color 3 r and color 4 r
+yes
+color 1 r and color 3 r and color 5 r and color 7 r
+yes
+color 2 r and color 6 r and color 9 r and color 10 r
+yes
+color 3 r and color 7 r and color 10 r and color 2 r
+yes
+color 4 r and color 5 r and color 6 r and color 6 r
+yes
+color 6 r and color 7 r and color 10 r and color 8 r
+yes
+
+16 4
+color 1 r
+yes
+color 2 g
+yes
+color 3 b
+no
+color 4 g
+yes
+color 5 b
+no
+color 6 g
+yes
+color 7 b
+no
+color 8 r
+yes
+color 9 g
+no
+color 10 b
+yes
+color 1 r and color 2 r and color 3 r and color 4 r
+yes
+color 1 r or color 3 r or color 5 r or color 7 r
+no
+color 2 r and color 6 r and color 9 r and color 10 r
+no
+color 3 r and color 7 r and color 10 r and color 2 r
+yes
+color 4 r and color 5 r and color 6 r and color 6 r
+no
+color 6 r and color 7 r and color 10 r and color 8 r
+yes
+
+16 3
+color 1 r
+yes
+color 2 g
+yes
+color 3 b
+no
+color 4 g
+yes
+color 5 b
+no
+color 6 g
+yes
+color 7 b
+no
+color 8 r
+yes
+color 9 g
+no
+color 10 b
+yes
+count r 2
+yes
+count b 3
+yes
+count g 5
+yes
+count r 2
+no
+count b 3
+no
+count g 5
+no
+
+12 12
+color 1 r
+yes
+color 2 g
+yes
+color 3 b
+no
+color 4 g
+yes
+color 5 b
+no
+color 6 g
+yes
+color 7 b
+no
+color 8 r
+yes
+color 9 g
+no
+color 10 b
+yes
+count b 4
+no
+count g 3
+no

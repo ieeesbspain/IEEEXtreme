@@ -1,0 +1,21 @@
+2
+3
+start 2
+end 0
+midway 50
+3
+start midway 1
+end midway 90
+start end 99
+5
+start 1
+end 0
+amity 2
+atlantis 3
+azkaban 4
+5
+start end 101
+start amity 1
+atlantis amity 2
+azkaban atlantis 3
+azkaban start 1

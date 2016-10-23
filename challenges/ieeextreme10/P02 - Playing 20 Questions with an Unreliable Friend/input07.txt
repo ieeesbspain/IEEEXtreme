@@ -1,0 +1,239 @@
+12
+
+6 3
+count r 4 or color 10 r or color 1 b or count r 8 or color 4 b or color 9 g or color 7 g
+no
+count r 8 or color 4 r or color 7 b or count r 5 or color 10 g
+no
+color 6 r or color 9 g or color 8 r or color 6 r or color 8 b or color 2 g or color 8 r or color 1 r or color 6 g or color 5 b or color 3 r or color 2 g or color 9 g or color 10 g or count b 3
+no
+color 2 b
+yes
+color 10 b and color 4 b and color 5 r and color 7 r and color 2 b and color 5 r and color 1 r and color 2 g and color 4 g and color 9 r and color 3 b
+no
+color 5 b or color 2 r or color 3 g or color 1 r or count g 1 or color 4 g or count r 7 or color 1 b or color 1 r or color 7 b or color 3 r or count r 0 or count g 4 or color 6 g or color 4 b or color 6 g or color 7 b or color 1 b
+no
+
+8 4
+count r 7 or color 6 g or color 2 g or count r 7 or color 9 g or color 10 b or count b 5 or color 1 b or count b 0
+no
+color 8 r and color 3 g and count b 0 and color 6 b and color 3 b and color 7 b and color 3 g and color 6 b
+no
+color 3 r or color 5 g or color 6 g or color 7 g or color 2 b or color 2 r or color 3 r or color 10 g or color 8 g or color 8 g or color 5 g or count r 3
+no
+color 6 g or color 3 b or color 6 g or color 3 r or color 7 g or color 1 r or color 5 g or color 10 g or color 6 g or color 1 r or color 4 g or color 8 g or color 7 b or count b 9 or count b 10
+no
+color 4 g and color 4 r and color 2 r and color 5 b and color 2 b and color 1 g and color 4 b and color 2 g and color 4 g and color 8 b and color 10 b and color 4 g and color 5 b and count g 4 and color 1 b and color 6 b and color 4 r and color 7 g and color 2 r
+no
+color 1 r or color 8 b or color 8 g
+yes
+color 10 r and color 10 r and color 6 b and color 6 g and color 1 b and color 6 b and color 7 g and color 1 g and color 4 g and color 5 r and color 10 r and color 2 b and color 8 r and color 3 r and color 8 b
+yes
+color 2 r or color 7 r or color 1 g or color 1 r or color 5 r or color 8 b or color 10 g or color 3 r or color 6 g or color 3 b or color 4 b or color 5 b or color 1 g or color 10 b or color 6 r or color 3 g or color 2 b or color 2 b or color 8 r or color 7 r
+no
+
+18 9
+color 10 r and count r 2 and count r 7 and color 2 r and count g 4 and color 8 g and color 9 r and count r 6 and count g 5 and color 10 g and color 8 g and color 6 r and color 8 b
+yes
+color 1 b or count g 2 or color 1 r or color 10 g or color 4 b or color 7 b or color 6 g or color 8 g or color 1 r or color 2 b or color 10 g or color 1 b or color 3 b or color 9 b or count r 1 or color 6 r or color 6 r
+no
+color 7 g or color 8 g or color 1 r or color 8 g or color 4 r or color 8 b or color 4 r or color 4 r or color 8 g or color 3 g or color 10 b or color 6 b or color 5 r or color 7 b or color 3 r or color 6 r or color 9 b or color 2 r
+no
+color 8 b or color 2 g or color 7 b or color 2 r or color 5 r or color 6 b or color 2 r or count g 5 or color 10 b or color 9 b or color 5 r or color 9 b or color 3 r or color 3 g or color 10 r or count r 3 or color 2 r
+yes
+color 3 g or color 6 r or color 3 r or color 10 b or count r 1 or color 6 g or color 1 b or color 1 b
+yes
+color 6 b or color 4 b or color 1 r or color 1 r or color 3 g or color 9 g or color 1 b or color 5 g or color 2 r or color 4 r or color 1 g or count g 8 or color 1 b or color 5 g or color 1 r or color 8 g or color 8 b or color 7 b
+yes
+color 10 r
+yes
+color 7 g or color 7 r or color 4 r or color 10 g or color 2 r or color 7 r or color 10 r
+yes
+color 10 g and color 3 g and color 5 b and color 9 g
+yes
+color 8 g and color 1 b
+yes
+color 5 g and color 3 b and color 5 g and color 1 b and color 3 b and color 10 r and color 4 b and color 8 g and color 9 r and color 1 r and color 5 b and color 5 r
+no
+color 4 g and color 7 r and color 10 g and color 5 g and color 9 r and color 5 g and color 10 g and color 6 r and count b 6 and color 9 r and count b 10 and color 10 b and color 5 g and count g 9 and color 6 g and color 6 b and color 1 r and color 9 r
+yes
+color 1 b and color 2 g and color 10 g and color 3 b and count r 8 and color 7 b and color 8 r and color 2 r and color 2 b and count r 3
+no
+color 10 r and count g 9 and color 9 b and color 3 g and color 5 r and color 5 g and color 3 b and color 5 r and color 10 g and color 7 g and color 8 r and color 1 r and color 6 r
+yes
+color 9 g or color 9 r or count r 4 or color 8 g or color 7 r or color 10 g or color 2 r or color 10 r or color 7 r or color 6 g or color 4 g or color 10 r
+yes
+color 4 g or color 6 r or color 7 b or color 6 b or color 9 b or color 1 g or count g 6 or count g 3 or color 4 b or count g 0 or color 7 b
+yes
+color 3 b and color 2 g and color 2 r and count r 9 and color 2 r and color 9 r and color 5 g and color 3 b and color 1 g and color 1 b and color 10 r and color 2 b and color 6 b and color 8 r and count r 1
+yes
+color 2 b and color 2 g and color 5 r and color 9 g and color 6 g and color 9 g and color 1 r and color 3 r and color 5 g and color 1 r and color 7 b and color 3 b and color 5 g and color 2 b and color 4 r and color 1 b and color 5 r and color 8 r
+no
+
+17 5
+color 3 r
+yes
+color 3 g and color 1 g and color 3 r and color 8 b and color 3 r and color 3 g and color 8 g and color 9 b and color 1 g and color 8 r and color 4 r
+no
+count b 2 and count g 10 and count g 7 and color 2 g and color 1 b and color 2 r and count g 8 and color 8 g and color 4 r and color 9 b and color 4 r and color 7 b and color 6 g and color 2 r and color 1 r and color 4 g and color 5 b and color 3 r and color 7 b
+no
+color 3 b or color 4 b or color 2 g or color 3 b or color 10 b or color 7 b or count b 7 or color 4 b or color 8 g or count b 3 or color 4 r or color 9 r or color 10 g
+yes
+color 8 g or color 3 b or color 6 g
+no
+color 4 b or color 10 b
+no
+count g 9 or color 4 b or color 10 r or color 9 g or count r 0 or color 3 b or color 4 b or color 1 r or color 4 g
+yes
+color 6 g or count r 6 or color 7 g or color 7 g or color 5 r or color 2 g or color 9 g or count g 8 or color 4 g or color 10 r or color 1 g or color 10 r or color 1 r or color 10 g or color 1 b or color 4 r or color 1 r or color 8 b
+no
+color 7 r or color 3 b or color 8 g or color 2 g or color 10 r
+no
+color 6 g or color 2 b
+yes
+color 2 b and color 7 r and color 6 b and color 6 g and color 5 r and color 2 b and color 6 g and color 3 g and color 8 b and color 2 g and color 4 r and color 8 g and color 1 g and color 4 r and color 1 g
+no
+color 6 b and color 3 r and color 6 b and color 3 r and color 4 r and color 10 r and color 6 g and color 10 b and color 10 r and color 8 g and count g 10 and color 2 r and count r 0
+yes
+count b 6 and color 8 r and color 10 r and color 5 r and color 7 r and color 8 g and color 10 r and color 9 r and color 1 g and color 10 g and color 5 r and color 2 g and count r 1 and count g 5 and color 4 g and color 8 b and count g 7 and color 1 g and color 1 g
+yes
+color 1 r and color 4 r and color 4 r and color 8 b and color 10 r and color 10 r and color 4 b and color 9 b and color 1 r and color 5 g and color 2 b and color 4 r and color 10 r and color 3 g and color 1 b
+yes
+color 5 g or color 6 r or color 3 b or color 7 g or color 5 r or color 10 b or color 4 g or color 6 g or count b 4 or color 3 b or color 1 b
+no
+color 1 b or color 5 g or color 2 g or color 9 r or color 9 b or color 9 b or color 5 r or color 5 b or color 2 r or count g 0 or color 6 g or color 3 g or color 2 r
+yes
+color 1 r or color 3 b or color 9 g or color 7 b or color 9 r or color 7 g or color 7 g or color 9 b or color 8 b or count b 5 or color 9 g or color 6 b or color 6 b or color 4 g or count g 2 or color 6 b or color 3 b or color 4 g or color 9 g
+no
+
+9 4
+color 6 b and color 6 r and color 9 g and color 1 r and color 7 b and color 2 b and color 8 r and color 4 b and color 3 g and color 5 b and color 5 g and color 8 b
+no
+color 7 g
+yes
+color 5 r
+yes
+color 9 g or count r 10 or color 6 g or color 6 b or color 4 b
+no
+color 9 b
+no
+color 10 r or color 10 g or color 2 b or color 3 b or color 3 g or color 5 r or color 3 r or color 3 r or color 2 b or color 2 r or color 10 b or count g 1 or color 1 b or color 3 r or color 5 b or color 3 b or count g 4
+no
+color 1 r and color 1 r and color 2 b and color 8 r and color 9 r and count r 9 and color 2 r and count g 0 and color 10 g and color 9 b and color 10 r and color 10 r and color 10 b and color 1 r and color 8 r
+no
+color 1 b or color 4 b or color 10 r or color 9 r or color 9 b or color 9 b or color 8 r or color 3 b or color 4 b or color 5 b or color 8 g or color 8 g or count g 4
+no
+color 3 b and count b 2 and color 10 g and color 4 g and color 9 b and color 1 b and color 4 b
+yes
+
+1 0
+color 9 r or count r 7 or color 1 b or color 2 g or count b 0 or color 1 r
+yes
+
+17 6
+color 4 r or color 6 b or color 7 g or color 5 b or color 8 r or color 10 g or color 3 b or color 10 r or color 10 r or color 3 b or color 5 b or color 2 g
+no
+color 8 g or color 3 g or color 9 g or count b 1 or color 4 g or color 8 b or color 1 g or color 8 g or color 1 g
+yes
+color 3 g and color 9 g and color 6 b and color 7 r and count b 4 and color 7 g and color 9 g and color 3 r and color 3 r and color 10 r and color 1 r and color 8 g and color 5 g and color 8 r and color 4 b
+no
+color 8 g or color 6 b or count b 5 or color 1 b or color 5 g or count r 10 or color 10 r or color 1 r or color 4 g or color 3 r or count g 6 or color 2 b or color 7 r or count g 7 or color 3 r or color 7 b or color 10 g
+no
+count r 5 or color 2 g or color 9 r or color 2 g
+no
+color 9 g and color 3 g and color 10 b and color 3 b and color 5 b and color 7 r
+no
+color 1 g or color 5 r or color 4 b or color 5 r or color 8 b or color 8 g or color 5 b or color 8 r or color 7 r or color 3 r or color 5 r or color 7 b or color 5 r or color 1 b or count r 1 or count r 9 or color 2 r or count r 8 or color 4 r or color 10 g
+yes
+color 9 r or color 4 b or color 3 b or color 7 r or color 8 b or color 5 g or color 3 b or color 4 b or color 5 b or color 5 r or count b 7 or color 4 r or color 4 r or color 5 g or color 5 r or color 10 g or count g 9 or color 9 r or color 7 r
+no
+color 8 g and color 1 b and color 6 r and color 9 g and color 1 r and color 2 g and color 3 r and count b 8 and color 2 b and color 6 g and color 9 b and color 10 g and color 7 g and color 7 g and count g 2 and color 9 r and color 8 b and color 8 r
+yes
+color 10 b and color 6 b and color 3 b and color 2 g and color 2 r and color 10 b and color 3 r and color 4 b and color 8 g and color 10 b and color 7 r and count g 7 and color 10 b
+no
+color 6 b and count g 1 and color 4 g and color 3 r and color 9 g and color 8 g and color 10 r
+no
+color 10 r or color 1 g
+yes
+count b 7 and color 9 g and count g 4 and color 3 r and count r 5 and color 10 g and color 9 b
+no
+color 7 b or color 9 g or color 5 r
+yes
+color 2 b or color 2 g or color 8 g or color 8 r or color 10 r or count b 7 or color 8 r or color 6 b or color 2 g or color 5 b or color 7 g or color 10 r or color 8 r or count r 10 or color 4 g or color 10 b
+yes
+color 1 r or color 4 r or color 2 g or color 6 g or color 5 b or color 9 b or color 10 b or color 2 g or color 2 g or color 1 b or color 2 b or color 5 r
+yes
+count b 7 and color 5 r and count b 10 and color 8 r and color 9 b and color 8 r and count g 5 and color 4 g and color 2 r and color 7 g and color 3 r and color 6 r and color 7 g and color 9 g and color 8 r and color 5 b and color 4 r
+yes
+
+3 1
+color 2 b and count b 5
+yes
+color 7 g or color 9 g or color 8 r or color 10 g or color 1 b or color 5 g or color 6 g or color 5 b or color 1 r or color 6 r or color 7 b or color 8 g or color 4 b or color 4 b or color 6 b
+yes
+count b 2 or color 3 b or color 10 g or color 1 g or color 10 b or color 7 b or count g 6 or color 2 g or color 5 r or count g 2 or color 8 r or color 1 b or color 9 b or color 10 b or color 4 r
+no
+
+7 4
+color 9 r or color 1 r or color 3 g or color 9 b or color 7 r or color 9 r or color 5 r or color 2 r or count r 3 or color 4 b or count g 2 or color 2 r
+no
+color 5 r or count r 3 or color 6 g or color 1 g or color 8 g or color 2 b or color 9 g or color 7 g or color 8 b or color 5 g or color 7 b or color 10 b or color 5 r or color 7 g or color 2 r or color 1 b
+no
+color 10 r or color 4 r or color 4 g or color 2 g or color 8 g or color 9 b
+no
+color 8 r or count b 7 or color 10 g or count r 8 or color 5 g or color 9 b or color 6 b or count g 1 or color 9 g or color 6 g or count b 5 or color 4 g or color 8 g or color 2 b
+no
+color 9 r and color 5 b and color 1 r and color 1 g and color 1 g and color 1 r and count b 4 and color 8 r and color 2 r and color 7 g and count g 0 and color 6 r and color 7 r and color 2 b
+no
+color 8 r or color 4 b or color 3 r or color 1 g or count g 8 or color 4 b or color 1 b or color 10 b or color 5 b or color 4 b or color 10 b or count g 3 or count r 10 or color 8 g or count r 7 or color 3 g or color 2 g or color 9 r or color 2 b or color 10 b
+no
+color 3 g or color 10 r or color 8 g
+no
+
+14 7
+color 9 r or color 5 b or color 8 g or color 2 r or color 1 b or color 2 r or color 6 r or color 10 b or color 10 g or color 8 b or color 9 r or color 10 b or color 7 r or color 2 b or color 7 b or color 10 g or color 7 r or color 9 r
+no
+color 4 b or color 2 g
+yes
+color 8 r or color 6 g or color 8 b or color 2 b or color 3 r or color 2 g or color 8 r or color 8 g
+no
+color 3 g
+yes
+color 1 r and count b 0 and color 4 r
+yes
+color 8 b and count r 9 and color 10 g and color 1 r and color 5 r and color 3 b and count g 1
+no
+count g 3 and color 5 g and count g 9 and count g 8 and color 10 g and color 5 r and color 5 g
+no
+count g 8 and color 9 g and color 1 b and color 5 g and count b 0 and color 1 b and count r 1 and color 1 g and color 1 b
+no
+color 4 r and color 2 r and color 2 b and color 5 b and count b 8 and color 10 g and color 10 b and color 3 b and color 5 b and color 7 b
+no
+color 2 g and color 4 g and color 5 r and color 3 g and color 9 g and color 3 g and color 8 b and color 3 g and color 6 r
+yes
+color 5 g or color 7 b or color 7 b or color 5 b or color 8 g or color 3 b or color 5 b or color 6 b or color 10 r or color 10 b or color 7 g or color 6 r or color 10 g or color 1 b or color 8 g
+yes
+color 10 b and color 9 r and color 4 b and color 4 r and color 9 b and color 7 g and color 1 r and color 7 r and count b 6 and color 4 g and color 6 r and color 7 b and color 8 g and color 1 g and color 10 g and color 8 g
+no
+color 7 b and color 4 r and color 9 g and color 3 b and color 3 g and color 2 g and color 9 r and color 1 g and color 4 r and color 3 b and color 3 r and color 1 r and color 3 r and color 8 r and color 1 g and color 2 r and color 2 b
+no
+color 8 b or color 4 g or count g 9 or color 4 b
+no
+
+4 2
+color 5 r
+yes
+color 9 r and color 6 g and color 6 g and color 4 r and color 2 b and color 7 g and color 9 r and count g 0 and color 10 g and color 6 r and color 8 b and color 6 r
+no
+color 4 g or color 4 g or count g 2 or color 5 g or color 10 r or color 7 b or color 6 b or color 3 r or color 4 g
+no
+color 3 g or count r 0 or color 5 g or color 5 g or color 5 b
+no
+
+3 2
+count g 4 or count r 0 or color 8 r or color 7 g or color 7 r or color 1 b or color 7 g or color 1 r or color 4 g or color 7 g or color 1 b or color 2 r or color 8 r or color 10 g or color 5 b or color 9 r or count r 8 or count r 6 or color 10 r
+yes
+color 5 r
+yes
+color 9 r and color 3 g
+no

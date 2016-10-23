@@ -1,0 +1,8 @@
+rb rgb rg rb rgb rgb rgb rgb gb rgb
+rgb rg rgb rgb rgb rgb rgb rgb rgb rgb
+b rb rgb gb rg rgb rgb gb rgb rg
+rgb rgb rgb rgb rgb rgb rgb rgb rgb rgb
+rgb rb rgb rgb rgb rgb rgb rgb rgb rgb
+rgb r rgb rgb rgb rgb rgb rgb rg rgb
+rgb rgb rgb rgb rgb rgb rgb rgb rgb rgb
+rgb rgb rgb rgb rgb rgb rgb rgb rgb rgb

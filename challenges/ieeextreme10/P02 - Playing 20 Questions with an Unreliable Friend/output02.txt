@@ -1,0 +1,13 @@
+rgb rgb rgb rgb rgb rgb rgb rgb rgb rgb
+rgb rgb rgb rgb rgb rgb rgb rgb rgb rgb
+rgb rgb rg rgb rgb rgb rgb rgb rgb rgb
+rgb rgb rgb rgb rgb rgb rgb rgb rgb rgb
+rgb rgb rgb rgb rgb rgb rgb rgb rgb rgb
+rb rgb rgb rgb rg rgb rgb b rgb rg
+rgb rgb rgb rgb rgb rgb rgb rgb rgb rgb
+b rgb rb b rgb rgb rgb rgb b g
+rgb rgb rgb rgb rgb rgb rgb rgb rgb rgb
+b rg gb gb gb rgb rg r gb b
+rgb rgb g rgb rgb rgb rgb g rgb rgb
+rgb rgb gb rgb rgb rgb rgb rgb rgb rgb
+rg rgb g g rgb gb r rb rb gb

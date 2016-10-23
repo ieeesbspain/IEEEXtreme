@@ -1,0 +1,4 @@
+3
+2 alice
+1 racecar
+3 alice
